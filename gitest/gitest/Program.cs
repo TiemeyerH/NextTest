@@ -11,6 +11,9 @@ namespace gitest
         /// <summary>
         /// Der Haupteinstiegspunkt für die Anwendung.
         /// </summary>
+        /// 
+
+        /// DIESES PROJEKT IST FÜR DEN KUNDEN BESTIMMT
         [STAThread]
         static void Main()
         {
