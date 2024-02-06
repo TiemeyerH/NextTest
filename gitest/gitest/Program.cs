@@ -26,6 +26,11 @@ namespace gitest
             {
                 return;
             }
+
+            if(i == 2)
+            {
+                return; // Oh no Error
+            }
         }
     }
 }
