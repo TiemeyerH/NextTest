@@ -11,6 +11,9 @@ namespace gitest
         /// <summary>
         /// Der Haupteinstiegspunkt für die Anwendung.
         /// </summary>
+        /// 
+
+        /// Master Branch
         [STAThread]
         static void Main()
         {
