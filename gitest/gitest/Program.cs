@@ -14,9 +14,15 @@ namespace gitest
         [STAThread]
         static void Main()
         {
+            int i = 0;
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+
+            if (i == 1)
+            {
+                return;
+            }
         }
     }
 }
